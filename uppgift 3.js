@@ -3,13 +3,13 @@
 "use strict"
 
 //Variabel
-let age = 45;
+let age = 75;
 
 //Villkor
 if (age <18) {
-    console.log("Gratis inträde");    
+    console.log("Barn");    
 } else if (age >= 18 && age <= 64) {
-    console.log("Inträde 100 kr");    
+    console.log("Vuxen");    
 } else {
-    console.log("Inträde 50 kr");    
+    console.log("Pensionär");    
 }
