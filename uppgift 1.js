@@ -4,6 +4,13 @@
 let firstName = "Sussan";
 let lastName = "Castro Vivanco";
 let age = 45;
-let student = "nej";
+let student = "Nej";
 
 console.log(firstName, lastName);
+console.log("Ålder: " +age);
+
+if (student === "Ja"){
+    console.log("Student: " + true)
+} else {
+    console.log("Student: " + false)
+}
