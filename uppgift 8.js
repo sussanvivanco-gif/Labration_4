@@ -7,3 +7,5 @@ function book (title, author, published){
     console.log("Författare: " + author);
     console.log("Utgivningsår: " + published);
 }
+
+book ("Mistborn, The Final Empire", "Brandon Sanderson", 2006);
