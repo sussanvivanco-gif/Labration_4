@@ -6,6 +6,7 @@
 let food = ["Korv och makaroner", "Köttbullar och potatis med brunsås", "Fiskgratäng med ärtor", "Broccolisoppa med bröd", "Lasagne"];
 
 /*skriva ut det första elementet*/
+console.log(food[0]);
 
 
 /*skriva ut det sista elementet*/
@@ -16,4 +17,4 @@ let food = ["Korv och makaroner", "Köttbullar och potatis med brunsås", "Fiskg
 
 /*skriva ut arrayen igen efter förändringarna*/
 
-console.table(food)
+//console.table(food)
