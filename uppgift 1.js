@@ -6,3 +6,4 @@ let lastName = "Castro Vivanco";
 let age = 45;
 let student = "nej";
 
+console.log(firstName, lastName);
