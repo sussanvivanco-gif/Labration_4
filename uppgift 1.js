@@ -1,4 +1,5 @@
 /* Lösning till uppgift 1. Av Sussan Castro Vivanco, 2026 */
+
 "use strict"
 
 let firstName = "Sussan";
