@@ -12,9 +12,11 @@ let food = ["Korv och makaroner", "Köttbullar och potatis med brunsås", "Fiskg
 //console.log(food[4]);
 
 /*lägga till en ny maträtt sist i arrayen*/
-food[5] = 'taco paj';
+//food[5] = 'tacopaj';
+//food.push("tacopaj");
 
 /*ta bort den första maträtten i arrayen*/
+
 
 /*skriva ut arrayen igen efter förändringarna*/
 
